@@ -1,0 +1,45 @@
+
+
+#cancha {
+	background-color: green;
+	width:1000px;
+	height: 500px;	
+	}
+
+#linea {
+	background-color: green;
+	width:900px;
+	height:420px;
+	border: solid; 10px; white;
+	color:white;
+}
+
+#arco1 {  
+	margin-right: 400px;
+	background-color: green;
+	width:30px;
+	height:40px;
+	border: solid; 10px; 
+	color:white;
+}
+
+
+#arco2 {  
+	background-color: green;
+	width:30px;
+	height:40px;
+	border:solid; 10px; 
+	color:white; 
+}
+
+#circulo {  
+	background-color:;
+	width:;
+	height:;
+	border:;
+}
+
+
+area {
+	vertical-align: top;
+}
